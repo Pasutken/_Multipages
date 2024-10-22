@@ -92,7 +92,7 @@ function BallControl() {
         break;
       case "Basketball":
         setBallStyle({
-          backgroundImage: `url(/images/basketball.png)`,
+          backgroundImage: `url(https://img5.pic.in.th/file/secure-sv1/basketballb3253eaf9637ba75.png)`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
@@ -100,7 +100,7 @@ function BallControl() {
         break;
       case "Football":
         setBallStyle({
-          backgroundImage: `url(/images/football.png)`,
+          backgroundImage: `url(https://img5.pic.in.th/file/secure-sv1/football3f9e40acbd2bdd29.png)`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
@@ -108,7 +108,7 @@ function BallControl() {
         break;
       case "Volleyball":
         setBallStyle({
-          backgroundImage: `url(/images/volleyball.png)`,
+          backgroundImage: `url(https://img2.pic.in.th/pic/volleyball.png)`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
@@ -116,7 +116,7 @@ function BallControl() {
         break;
       case "Human":
         setBallStyle({
-          backgroundImage: `url(/images/human.jpg)`,
+          backgroundImage: `url(https://img5.pic.in.th/file/secure-sv1/human.jpg)`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
@@ -124,7 +124,7 @@ function BallControl() {
         break;
       case "Cartoon":
         setBallStyle({
-          backgroundImage: `url(/images/cartoon.png)`,
+          backgroundImage: `url(https://img2.pic.in.th/pic/cartoon4d4f257de9e34783.png)`,
           backgroundColor: "white",
           backgroundSize: "cover",
           backgroundPosition: "center",
@@ -133,7 +133,7 @@ function BallControl() {
         break;
       case "Logo":
         setBallStyle({
-          backgroundImage: `url(/images/logo.png)`,
+          backgroundImage: `url(https://img5.pic.in.th/file/secure-sv1/logo256dd38c1107df26.png)`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
