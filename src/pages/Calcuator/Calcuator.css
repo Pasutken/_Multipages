@@ -1,0 +1,153 @@
+.calculator-container {
+    border: 1px solid lightgray;
+    border-radius: 0.5rem;
+    text-align: center;
+    width: 1020px;
+    height: 640px;
+    margin: 0 auto;
+}
+
+/* main */
+.calc-container {
+    background-color: black;
+    width: 210px;
+    height: 336px;
+    margin: auto;
+    /* padding: 10px; */
+    margin-top: 250px;
+    border-radius: 20px;
+    margin-top: 7rem ;
+}
+
+/* screen */
+.calc-screen {
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    color: white;
+    text-align: right;
+    font-size: 2.5rem;
+    border: none;
+    outline: none;
+    padding-right: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+/* button */
+.calc-button {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    /* padding: 10px; */
+    cursor: pointer;
+    color: white;
+    background-color: #343434;
+}
+
+.calc-clear {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    /* padding: 10px; */
+    cursor: pointer;
+    background-color: #a5a5a5;
+}
+
+.calc-operation-alt{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    /* padding: 10px; */
+    cursor: pointer;
+    background-color: #a5a5a5;
+}
+
+.calc-operation{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    /* padding: 10px; */
+    cursor: pointer;
+}
+
+.calc-equals {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    /* padding: 10px; */
+    cursor: pointer;
+}
+
+.calc-double{
+    width: 90px;
+    height: 40px;
+    border-radius: 20px;
+    /* padding: 10px; */
+    cursor: pointer;
+    background-color: #343434;
+    color: white;
+    text-align: left;
+    padding-left: 15px;
+
+}
+
+.calc-operation {
+    background-color: #ff9f04;
+    color: white;
+}
+
+.calc-operation-alt, .calc-clear {
+    background-color: #a6a6a6;
+}
+
+.calc-operation:hover {
+    background-color: #e67e22;
+}
+
+.calc-button:hover {
+    background-color: #a6a6a6;
+}
+
+.calc-equals {
+    background-color: #f39c12;
+    color: white;
+}
+
+.calc-equals:hover {
+    background-color: #e67e22;
+}
+
+.calc-box1 {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.calc-box2 {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 5px;
+}
+
+.calc-box3 {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 5px;
+}
+
+.calc-box4 {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 5px;
+}
+
+.calc-box5 {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 5px;
+}

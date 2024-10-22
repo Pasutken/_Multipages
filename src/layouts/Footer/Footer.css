@@ -1,0 +1,21 @@
+.footer {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.footer-section {
+    flex: 1;
+}
+
+.footer-section img {
+    width: 20px; 
+    height: auto;
+    margin-right: 10px;
+}
+

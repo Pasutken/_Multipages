@@ -1,0 +1,74 @@
+.home-container {
+    border: 1px solid lightgray;
+    border-radius: 0.5rem;
+    text-align: center;
+    width: 1020px;
+    height: 640px;
+    margin: 0px auto;
+}
+
+.profile-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.about {
+    padding: 30px;
+}
+
+.about h3 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+
+.skills {
+    padding: 10px;
+    /* background-color: #f9f9f9; */
+    text-align: center;
+  }
+  
+  .skills h3 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  .skill-list {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+  
+  .skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .skill img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    margin-bottom: 5px;
+  }
+  
+  .skill p {
+    font-size: 1rem;
+    /* color: #666; */
+  }
+  
+  .skill:hover {
+    transform: translateY(-10px);
+  }
+
+  
+  
+
+  
